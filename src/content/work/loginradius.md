@@ -1,7 +1,7 @@
 ---
 company: "LoginRadius, Inc"
 role: "Sr. Content Engineer"
-dateStart: "07/2021"
+dateStart: "05/07/2021"
 dateEnd: "Current"
 ---
 
